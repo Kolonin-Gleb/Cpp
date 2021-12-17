@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP Static properties and methods of a class", "OOP Static properties and methods of a class\OOP Static properties and methods of a class.vcxproj", "{858C6850-3131-4A9E-BC3E-824387EACAC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Debug|x64.ActiveCfg = Debug|x64
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Debug|x64.Build.0 = Debug|x64
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Debug|x86.Build.0 = Debug|Win32
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Release|x64.ActiveCfg = Release|x64
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Release|x64.Build.0 = Release|x64
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Release|x86.ActiveCfg = Release|Win32
+		{858C6850-3131-4A9E-BC3E-824387EACAC4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66588118-B454-4091-8BCA-A5EC041E028A}
+	EndGlobalSection
+EndGlobal

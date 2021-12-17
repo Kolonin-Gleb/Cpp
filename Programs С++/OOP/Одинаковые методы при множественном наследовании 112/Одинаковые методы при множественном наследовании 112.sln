@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Одинаковые методы при множественном наследовании 112", "Одинаковые методы при множественном наследовании 112\Одинаковые методы при множественном наследовании 112.vcxproj", "{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Debug|x64.ActiveCfg = Debug|x64
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Debug|x64.Build.0 = Debug|x64
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Debug|x86.Build.0 = Debug|Win32
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Release|x64.ActiveCfg = Release|x64
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Release|x64.Build.0 = Release|x64
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Release|x86.ActiveCfg = Release|Win32
+		{08C7BA4E-6CAF-41A8-B247-D7B5E5DF8CEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC243F5-3D71-44AC-9643-DB52B56C11C6}
+	EndGlobalSection
+EndGlobal
